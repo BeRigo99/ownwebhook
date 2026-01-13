@@ -1,0 +1,18 @@
+{
+  "name": "webhook-service",
+  "version": "1.0.0",
+  "description": "Serviço de webhook com Express",
+  "main": "webhook-service.js",
+  "scripts": {
+    "start": "node webhook-service.js"
+  },
+  "keywords": ["webhook", "express", "api"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
